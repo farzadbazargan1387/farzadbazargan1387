@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**farzadbazargan1387/farzadbazargan1387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌙 Farzad (farzadbazargan1387)  
+**Designer | Developer | Dreamer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech I’ve worked with:
+- **Languages:** C++, Java, SQL, HTML  
+- **Frameworks:** Spring  
+
+---
+
+### 🖤 Passion:
+- Building **Nocturne Soul** → fashion x code x art  
+- Turning soul & vision into design  
+- Living by faith & purpose  
+
+---
+
+### ⚡ Current Focus:
+- Learning full-stack development  
+- Designing unique streetwear concepts  
+- Growing Nocturne Soul into more than a brand 🌌  
+
+---
